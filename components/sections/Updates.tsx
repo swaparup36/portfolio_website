@@ -10,7 +10,8 @@ import { ParallaxSection } from '../ui/ParallaxSection';
 //             https://www.linkedin.com/feed/update/urn:li:activity:<id>/
 export const posts: string[] = [
     "https://x.com/Swaparup36/status/2119782548511584435",
-    "https://www.linkedin.com/posts/swaparup-mukherjee-508001280_its-been-a-great-experience-this-summer-share-7500944301867278337-WuK6"
+    "https://www.linkedin.com/posts/swaparup-mukherjee-508001280_its-been-a-great-experience-this-summer-share-7500944301867278337-WuK6",
+    "https://x.com/Swaparup36/status/2120490054468649463"
 ];
 
 type Embed = { kind: 'x' | 'linkedin'; id: string; url: string } | null;
