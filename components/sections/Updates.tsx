@@ -9,7 +9,7 @@ import { ParallaxSection } from '../ui/ParallaxSection';
 //   LinkedIn: https://www.linkedin.com/posts/..._share-<id>-xxxx  (or _activity-<id>), not lnkd.in short links
 //             https://www.linkedin.com/feed/update/urn:li:activity:<id>/
 export const posts: string[] = [
-    "https://x.com/Swaparup36/status/2119782548511584435",
+    "https://x.com/Swaparup36/status/2120508534777631103",
     "https://www.linkedin.com/posts/swaparup-mukherjee-508001280_its-been-a-great-experience-this-summer-share-7500944301867278337-WuK6",
     "https://x.com/Swaparup36/status/2120490054468649463"
 ];
