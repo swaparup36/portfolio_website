@@ -4,10 +4,6 @@ import Script from 'next/script';
 import { ExternalLink, Linkedin, Twitter } from 'lucide-react';
 import { ParallaxSection } from '../ui/ParallaxSection';
 
-// Paste post links here, newest first. Supported:
-//   X:        https://x.com/Swaparup36/status/<id>
-//   LinkedIn: https://www.linkedin.com/posts/..._share-<id>-xxxx  (or _activity-<id>), not lnkd.in short links
-//             https://www.linkedin.com/feed/update/urn:li:activity:<id>/
 export const posts: string[] = [
     "https://x.com/Swaparup36/status/2120508534777631103",
     "https://www.linkedin.com/posts/swaparup-mukherjee-508001280_its-been-a-great-experience-this-summer-share-7500944301867278337-WuK6",
